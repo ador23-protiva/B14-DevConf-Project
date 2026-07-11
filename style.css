@@ -11,7 +11,9 @@ body {
   max-width: 1200px;
   margin: auto;
 }
+
 /* header */
+
 header {
   background-color: #ffffff;
   padding: 18px 0;
@@ -41,7 +43,9 @@ nav ul a {
   font-weight: 600;
   display: inline-block;
 }
+
 /* hero */
+
 .hero {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
@@ -120,6 +124,7 @@ nav ul a {
 }
 
 /* pricing */
+
 .pricing {
   padding: 100px 0;
 }
@@ -187,6 +192,7 @@ nav ul a {
   font-weight: 600;
   cursor: pointer;
 }
+
 /* middle card style */
 
 .active {
@@ -209,7 +215,9 @@ nav ul a {
   color: #fff;
   border: none;
 }
+
 /* prompt section */
+
 .conference-extra{
     padding:80px 8%;
     background:#bec3cf;
@@ -284,6 +292,7 @@ nav ul a {
 
 
 /* footer */
+
 .footer {
   background: #0f172a;
   padding: 40px 0 20px;
