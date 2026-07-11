@@ -1,1 +1,1 @@
-give me a section before footer which is important and relevant with DevConf 2026 including sponsors & venue,hackethon and jobs,highlights & faq and newsletter.
+give me a section before footer which is important and relevant with DevConf 2026 website including sponsors & venue,hackethon and jobs,highlights & faq and newsletter.
