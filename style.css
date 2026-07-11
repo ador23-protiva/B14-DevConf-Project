@@ -234,7 +234,7 @@ nav ul a {
 }
 
 .section-title p{
-    color:#b6bcc8;
+    color:black;
 }
 
 .extra-grid{
@@ -247,16 +247,11 @@ nav ul a {
     background:#1f2937;
     padding:25px;
     border-radius:15px;
-    transition:.3s;
-}
-
-.extra-card:hover{
-    transform:translateY(-6px);
-}
+    }
 
 .extra-card h3{
     color:#fff;
-    margin-bottom:15px;
+    margin-bottom:25px;
 }
 
 .extra-card p{
@@ -271,7 +266,7 @@ nav ul a {
     font-weight:600;
 }
 
-.extra-card input{
+.extra-card form{
     width:100%;
     padding:12px;
     border:none;
@@ -286,6 +281,7 @@ nav ul a {
     border-radius:8px;
     background:#7c5cff;
     color:#fff;
+    margin-top: 15px;
     cursor:pointer;
 }
 
